@@ -1,3 +1,5 @@
+*WARNING THIS SOFTWARE IS UNFINISHED AND WAS MADE IN ONE DAY WITH A LOT OF TEA AND COFFEE.*
+
 * Falsus
 
 Falsus is a apprenticeship journal generator (You could also modify it to do something else) that takes a text file with a specific [[id:a287f2f2-5927-4040-9d1d-f5ffece635ba][format]] and uses that file to create a latex file in the specified directory.
