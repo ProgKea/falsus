@@ -41,13 +41,16 @@ $ nix develop
 :ID:       a287f2f2-5927-4040-9d1d-f5ffece635ba
 :END:
 
-Newline actions:
-1 newlines = new item inside a week
-2 newlines = new week
-3 newlines = new section (school section or company section)
-4 newlines = new report
+| Number of newlines | action |
+|--------------------+--------|
+| 1 | new item inside a week |
+| 2 | new week |
+| 3 | new section (school section or company section) |
+| 4 | new report |
 
 ** Example
+
+This example is german, since it's my native language.
 
 For example the file [[file:latex/beispiel_berichte.txt][beispiel_berichte.txt]] would produce the following pdfs:
 
