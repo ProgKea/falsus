@@ -50,7 +50,7 @@ $ nix develop
 
 ** Example
 
-This example is german, since it's my native language.
+This example is in german, since it's my native language.
 
 For example the file [[file:latex/beispiel_berichte.txt][beispiel_berichte.txt]] would produce the following pdfs:
 
