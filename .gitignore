@@ -4,3 +4,4 @@
 /latex/*.pdf
 /latex/berichte.txt
 /latex/build.sh
+/pdftoimage.sh

@@ -1,4 +1,4 @@
-*WARNING THIS SOFTWARE IS UNFINISHED AND WAS MADE IN ONE DAY WITH A LOT OF TEA AND COFFEE.*
+*WARNING THIS SOFTWARE IS UNFINISHED*
 
 * Falsus
 
@@ -6,7 +6,7 @@ Falsus is a apprenticeship journal generator (You could also modify it to do som
 This project uses a slightly modified version of this latex template: https://github.com/MarkusAmshove/LaTeX-Vorlage-Berichtsheft by [[https://github.com/MarkusAmshove][Markus Amshove]].
 
 Falsus adjusts the date and the numbering of the reports accordingly.
-The month it starts counting from is currently hardcoded but this is going to change in the near future (or you could change it yourself by editing the [[file:src/config.h][config.h]] file).
+The month it starts counting from is currently hard coded but this is going to change in the near future (or you could change it yourself by editing the [[file:src/config.h][config.h]] file).
 
 ** Getting started
 
@@ -47,84 +47,16 @@ Newline actions:
 3 newlines = new section (school section or company section)
 4 newlines = new report
 
-To get started create a reports file. A example file could look like this:
-#+BEGIN_SRC text
-- Lager aufräumen ;(
-- noch einmal das Lager aufräumen
-- Dem Chef Kaffee holen
-- Boden putzen
+** Example
 
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
+For example the file [[file:latex/beispiel_berichte.txt][beispiel_berichte.txt]] would produce the following pdfs:
 
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-
-- Vorstellungsrunde
-- IP-Addressierung
-
-- Politik: Verträge
-- Englisch: present your company
-
-- Deutsch: Email verfassen
-
-- Vergessen
-#+END_SRC
-
-Running Falsus on this file would produce latex which looks like this when compiled to a PDF:
 [[file:images/Berichtsheft-0.png]]
-
-We can easily extend this by adding new items after adding some newlines like this:
-#+BEGIN_SRC text
-- Lager aufräumen ;(
-- noch einmal das Lager aufräumen
-- Dem Chef Kaffee holen
-- Boden putzen
-
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-
-- Vorstellungsrunde
-- IP-Addressierung
-
-- Politik: Verträge
-- Englisch: present your company
-
-- Deutsch: Email verfassen
-
-- Vergessen
-
-
-
-- Neuer Ausbildungsnachweis
-
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
-
-
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
-#+END_SRC
-
-This would generate latex for the previous report and for the new one.
-
-The one would look like this when compiled to a PDF:
 [[file:images/Berichtsheft-1.png]]
 
 ** What advantages does this have?
 
-This approach takes away the tedious boilerplate like dates, counting the reports, indentation..., so you can focus solely on the actual content you want in your PDF.
-You can also easily change the appearance of all your reports by editing the template.
+- It's faster
+- no more tedious counting of dates
+- You can edit every page at once
+- focus solely on the content instead of the appearance

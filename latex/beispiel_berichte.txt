@@ -1,40 +1,51 @@
-- Lager aufräumen ;(
-- noch einmal das Lager aufräumen
-- Dem Chef Kaffee holen
-- Boden putzen
+- eine Netzwerkkarte eingebaut
+- ein Problem bei einem Netzwerk analysiert und beseitigt
+- Service bei einem unserer Kunden durchgeführt
+- Anwender bei der Auswahl und dem Einsatz von Rechner und Netzwerken beraten
+- einen Rechner konfiguriert
+- eine Onlinehilfe erstellt
+- Kunden bei der Umrüstung auf umweltfreundliche Geräte unterstützt
 
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
+- ein Projektmanagement zur Lösung von Anwendungsproblemen eingesetzt
+- IT-Systeme beim Kunden verwaltet
+- Komponenten gepflegt, welche ich zur Sicherheit von Netzwerken installiert habe
+- komplexes IT-System bei einem unserer Kunden eingerichtet
 
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-- Das gleiche wie letzte Woche, bloß noch mehr Lager aufräumen
-
-
-- Vorstellungsrunde
-- IP-Addressierung
-
-- Politik: Verträge
-- Englisch: present your company
-
-- Deutsch: Email verfassen
-
-- Vergessen
+- Programmiermethodik zur Lösungen von Anwendungsproblemen eingesetzt
+- eine Onlinehilfe erstellt
+- Kunden bei der Umrüstung auf umweltfreundliche Geräte unterstützt
+- Projekt zur Installation geleitet
 
 
+AEE: Entwicklungsstrategiend der Anwendungsentwicklung
+IUS: Kundenanforderungen
+SPR: Benutzeroberflächen
+WGP: Arbeitsteilung in der Wirtschaft
 
-- Neuer Ausbildungsnachweis
+AEE: Vorgehensmodelle der Anwendungsentwicklung
+IUS: Dokumentation
+SPR: Anweisungen
+WGP: Produktionsfaktoren
 
-- mir sind die Ideen ausgegangen
+AEE: Entwicklungsstrategiend der Anwendungsentwicklung
+IUS: Baugruppen
+SPR: Bedienerführungen
+WGP: prozessorientierte Ablauforganisation
 
-- mir sind die Ideen ausgegangen
+AEE: Vorgehensmodelle der Anwendungsentwicklung
+IUS: Zusammenwirken von Hardwarekomponenten
+SPR: Bedienerführungen
+WGP: Arbeitsteilung in der Wirtschaft
 
-- mir sind die Ideen ausgegangen
 
 
-- mir sind die Ideen ausgegangen
+- E-Mails gelesen
+- komplexe IT-System bei internen Kunden konfiguriert
+- Komponenten gepflegt, welche ich zur Sicherheit von Netzwerken installiert habe
+- den Markt für IT-Technologien und Systeme, sowie Hard- und Softwareprodukte beobachtet
 
-- mir sind die Ideen ausgegangen
 
-- mir sind die Ideen ausgegangen
-
-- mir sind die Ideen ausgegangen
+AEE: Entwicklungsstrategiend der Anwendungsentwicklung
+IUS: Kundenanforderungen
+SPR: Benutzeroberflächen
+WGP: Arbeitsteilung in der Wirtschaft
