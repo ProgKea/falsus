@@ -11,7 +11,7 @@ The month it starts counting from is currently hard coded but this is going to c
 ** Getting started
 
 To start using Falsus you need to compile it first using the following command:
-#+BEGIN_SRC shell
+#+BEGIN_SRC console
 $ make
 #+END_SRC
 You should also have some knowledge about how to use LaTeX.
@@ -19,20 +19,20 @@ You should also have some knowledge about how to use LaTeX.
 *** Running the program
 
 To generate your latex file run the command:
-#+BEGIN_SRC shell
+#+BEGIN_SRC console
 $ ./falsus <report_file> <output_directory>
 #+END_SRC
 This will produce the latex files and a =include_report= file which you should include inside the =Berichtsheft.tex= file.
 
 To produce a PDF use the following command:
-#+BEGIN_SRC shell
+#+BEGIN_SRC console
 $ pdflatex Berichtsheft.tex
 #+END_SRC
 
 *** Nix
 
 If you are on Nix you can install the utilize the flake.nix file using the following command:
-#+BEGIN_SRC shell
+#+BEGIN_SRC console
 $ nix develop
 #+END_SRC
 
